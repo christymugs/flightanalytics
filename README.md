@@ -8,7 +8,7 @@ The **Flight Data Analytics** application provides insights into flight status d
 
 - **Data Ingestion:** Fetch real-time flight data from AviationStack API.
 - **Data Processing:** Clean and prepare data for analysis.
-- **Database Storage:** Store processed data in AWS RDS (MySQL/PostgreSQL).
+- **Database Storage:** Store processed data in AWS RDS (MySQL).
 - **Data Visualization:** Interactive charts and graphs using Dash.
 - **Cloud Deployment:** Deploy the application using AWS EC2 or Elastic Beanstalk.
 
