@@ -46,18 +46,18 @@ The **Flight Data Analytics** application provides insights into flight status d
    cd flightanalytics
 
 2. Create Virtual Enviornment
-  python -m venv venv
-  source venv/bin/activate  # For Windows: venv\Scripts\activate
+  - python -m venv venv
+  - source venv/bin/activate  # For Windows: venv\Scripts\activate
 
 3. Install Dependencies
-    pip install -r requirements.txt
+   - pip install -r requirements.txt
 4. Fetch and Process Data
      Fetch Data from API:
-      python fetch_data.py
+      - python fetch_data.py
      Process Data:
-      python process_data.py
+      - python process_data.py
    Store Data to Database:
-      python store_data.py
+      - python store_data.py
 5. Run Locally
-     python app.py
+     - python app.py
 
